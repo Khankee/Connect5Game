@@ -5,7 +5,7 @@ import java.io.IOException;
 import javax.swing.*;
 import java.lang.String;
 
-	/* @Author: Arukhan
+	/* @Author: Khanspii
 	 * 
 	 * Connect 5 game 
 	 * This is the main class where you should run the program

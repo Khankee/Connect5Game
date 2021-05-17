@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.net.URL;
 import javax.swing.*;
 
-	/* @Author: Arukhan
+	/* @Author: Khanspii
 	 * 
 	 * This is the main GUI class which starts the game and 
 	 * calls other classes during the process

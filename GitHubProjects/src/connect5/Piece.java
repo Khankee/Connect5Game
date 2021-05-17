@@ -1,6 +1,6 @@
 package connect5;
 
-	/* @Author: Arukhan
+	/* @Author: Khanspii
 	 * */
 
 public class Piece {

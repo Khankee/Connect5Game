@@ -1,7 +1,7 @@
 package connect5;
 import java.util.Random;
 
-	/* @Author: Arukhan
+	/* @Author: Khanspii
 	 * 
 	 * This is the actual game process which connects Board class
 	 * */

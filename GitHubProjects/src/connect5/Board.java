@@ -2,7 +2,7 @@ package connect5;
 
 import java.io.*;
 
-	/* @Author: Arukhan
+	/* @Author: Khanspii
 	 * 
 	 * This is the Board class with methods to check the winner and work with board
 	 * */

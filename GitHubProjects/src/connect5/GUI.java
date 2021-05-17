@@ -10,6 +10,7 @@ import javax.swing.*;
 	 * 
 	 * This is the main GUI class which starts the game and 
 	 * calls other classes during the process
+	 * 
 	 * */
 
 @SuppressWarnings("serial")

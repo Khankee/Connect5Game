@@ -1,7 +1,9 @@
 # Do you know connect 4 game?
 
-<img align = "left" src =https://github.com/Khanspii/Connect5Game/blob/master/GitHubProjects/src/Readme%20Images/Connect_4_Board_and_Box.jpg/>
-
+<p align="center">
+  <img align = "left" src =https://github.com/Khanspii/Connect5Game/blob/master/GitHubProjects/src/Readme%20Images/Connect_4_Board_and_Box.jpg/>
+</p>
+  
 Yes it is. This is Connect 5 (not 4) game. 
 The rules are simple:
 * Players must connect 5 of the same colored discs in a row to win.

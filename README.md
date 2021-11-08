@@ -18,15 +18,15 @@ To try this game on your PC (or laptop)
 * Second, run mainclass.java
 * Congratulations! You just opened the menu bar of the game.
 
-<img align = "left" src =https://github.com/Khanspii/Connect5Game/blob/master/GitHubProjects/src/Readme%20Images/Menu.PNG/>
+<img align = "center" src =https://github.com/Khanspii/Connect5Game/blob/master/GitHubProjects/src/Readme%20Images/Menu.PNG/>
 
 * click on "Start the game"
 * Enjoy!
 
-<img align = "left" src =https://github.com/Khanspii/Connect5Game/blob/master/GitHubProjects/src/Readme%20Images/play.PNG>
+<img align = "center" src =https://github.com/Khanspii/Connect5Game/blob/master/GitHubProjects/src/Readme%20Images/play.PNG>
 
 Once you win
 
-<img align = "left" src =https://github.com/Khanspii/Connect5Game/blob/master/GitHubProjects/src/Readme%20Images/Won.PNG>
+<img align = "center" src =https://github.com/Khanspii/Connect5Game/blob/master/GitHubProjects/src/Readme%20Images/Won.PNG>
 
 You will get the message and you can restart the game and try your best!

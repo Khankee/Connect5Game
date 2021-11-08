@@ -27,13 +27,13 @@ To try this game on your PC (or laptop)
 
 
 <p align="center">
-<img width="500" height="500" src =https://github.com/Khanspii/Connect5Game/blob/master/GitHubProjects/src/Readme%20Images/play.PNG>
+  <img src =https://github.com/Khanspii/Connect5Game/blob/master/GitHubProjects/src/Readme%20Images/play.PNG>
 </p>
 
 Once you win
 
 <p align="center">
-  <img width="500" height="500" src =https://github.com/Khanspii/Connect5Game/blob/master/GitHubProjects/src/Readme%20Images/Won.PNG>
+  <img src =https://github.com/Khanspii/Connect5Game/blob/master/GitHubProjects/src/Readme%20Images/Won.PNG>
 </p>
 
 You will get the message and you can restart the game and try your best!
